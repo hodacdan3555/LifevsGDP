@@ -1,7 +1,7 @@
 # LifevsGDP
 This project will investigate if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.
 
-# Introduction
+## Introduction
 Here are a few questions that this project will seek to answer:
 
 Has life expectancy increased over time in the six nations?
@@ -12,7 +12,10 @@ What is the distribution of that life expectancy?
 
 [![fsdsadf.png](https://i.postimg.cc/9MKhCWcL/fsdsadf.png)](https://postimg.cc/zbCMkYbh)
 
-# Technologies:
+## View: 
+Please click on the life_expectancy_gdp.ipynb to see the full report.
+
+## Technologies:
 Python
 
 # Lincense: 
