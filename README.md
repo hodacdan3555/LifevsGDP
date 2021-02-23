@@ -10,6 +10,8 @@ Is there a correlation between GDP and life expectancy of a country?
 What is the average life expectancy in these nations?
 What is the distribution of that life expectancy?
 
+[![fsdsadf.png](https://i.postimg.cc/9MKhCWcL/fsdsadf.png)](https://postimg.cc/zbCMkYbh)
+
 # Technologies:
 Python
 
