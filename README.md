@@ -16,7 +16,7 @@ What is the distribution of that life expectancy?
 Please click on the life_expectancy_gdp.ipynb to see the full report.
 
 ## Technologies:
-Python
+Python.
 
 # Lincense: 
 MIT License
